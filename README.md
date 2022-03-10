@@ -23,3 +23,8 @@
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/prateekb01
 [linkedin]: https://www.linkedin.com/in/prateek-bavaskar-1870251aa/
+
+
+### Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=prateekbavaskar1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
