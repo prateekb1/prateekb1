@@ -1,8 +1,25 @@
-                                                                      Hi there 👋
+# Hi there, I'm Prateek 👋 
 
-- 🔭 I’m currently working on Development
-- 🌱 I’m currently learning German, JavaScript, Django
-- 💬 Ask me about PYTHON, Web Design
-- 📫 How to reach me: [Twitter - @prateekb01](https://twitter.com/prateekb01)
-- ⚡ Fun fact: ...
+## I'm a  Developer!
 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about everything.
+- ⚡ Fun fact: I love to do everything
+
+### Connect with me:
+
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/prateekb01
+[linkedin]: https://www.linkedin.com/in/prateek-bavaskar-1870251aa/
