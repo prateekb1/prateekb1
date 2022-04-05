@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79625998/161677461-13432841-bc68-4322-8d7f-5c6afb7668f7.gif" width="900" height="400" />
+<img src="https://user-images.githubusercontent.com/79625998/161677461-13432841-bc68-4322-8d7f-5c6afb7668f7.gif" width="900" height="430" />
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A passionate computer science engineer, India</h3>
