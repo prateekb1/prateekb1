@@ -1,4 +1,4 @@
-![Hi (1)](https://user-images.githubusercontent.com/79625998/161675764-87d20af2-bc67-4ede-b384-0bd0db92c46c.gif=250*250)
+<img src="https://user-images.githubusercontent.com/79625998/161675764-87d20af2-bc67-4ede-b384-0bd0db92c46c.gif" width="48">
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A passionate computer science engineer, India</h3>
