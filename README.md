@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A passionate computer science engineer, India</h3>
 
-[![Visits Badge](https://badges.pufler.dev/visits/prateekb1/git-badges)](https://badges.pufler.dev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=prateekb1.visitor-badg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekb1&label=Profile%20views&color=0e75b6&style=flat" alt="prateekb1" /> </p>
 
 - 🔭 I’m currently working on **Video Chatting Website**
