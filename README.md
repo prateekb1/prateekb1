@@ -1,3 +1,5 @@
+![Hi](https://user-images.githubusercontent.com/79625998/161665317-08557832-152b-4c73-98ff-3211a9d48db3.gif)
+
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A passionate computer science engineer, India</h3>
 
