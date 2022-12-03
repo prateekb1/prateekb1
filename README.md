@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Skills.<br>I'm currently learning more about Data Structures and algorithms.<br>I'm looking for help with Exploring New Technologies.<br>Ask me about any tech-related stuff.<br>How to reach me: Email - prateek.bavaskar@cubexo.io
+🔭I'm currently working on my Skills.<br>🌱I'm currently learning more about Data Structures and algorithms.<br>🤔I'm looking for help with Exploring New Technologies.<br>💬Ask me about any tech-related stuff.<br>📫How to reach me: Email - prateek.bavaskar@cubexo.io<br>⚡ Fun fact: My favourite song is Grateful by Neffex.
 
 
 ## 🌐 Socials:
